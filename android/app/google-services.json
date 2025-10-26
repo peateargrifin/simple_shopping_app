@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933756063979",
+    "project_id": "authlearn-a0092",
+    "storage_bucket": "authlearn-a0092.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933756063979:android:4598b5f35362bcd8bcaeae",
+        "android_client_info": {
+          "package_name": "com.example.shopping1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933756063979-8d4q3vdiv53njj3pqum2kaukc4k3tc8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping1",
+            "certificate_hash": "3e9564bce70c2ecfefdc9e9ce6fa9f9cc3735885"
+          }
+        },
+        {
+          "client_id": "933756063979-b4l4a5umei2evatm2ajnjtqi7qjolh6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx37sbvVgyyon6nLlVQTy-GqASGAwQINY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933756063979-b4l4a5umei2evatm2ajnjtqi7qjolh6s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933756063979-v5t44gm1r3ffk1b4tr27hdcv115l7bdq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopping1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
